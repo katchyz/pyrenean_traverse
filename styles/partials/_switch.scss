@@ -1,0 +1,19 @@
+.switch-gr10 .label-default {
+  background-color: $color-GR10 !important;
+}
+
+.switch-gr11 .label-default  {
+  background-color: $color-GR11 !important;
+}
+
+.switch-hrp .label-default  {
+  background-color: $color-HRP !important;
+}
+
+
+.inline-switches > div {
+  display: inline-block;
+  margin-right: 10px;
+  align-items: center;
+}
+
